@@ -6,7 +6,7 @@ import {FETCH_FRIENDS_START,
     LOGIN_FAILURE
 
 
-} from '../actions/actions'
+} from '../actions'
 
 const initialstate ={
         fetchingFriends: false,

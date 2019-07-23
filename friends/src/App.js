@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FriendList from './components/FriendList'
 import './App.css';
-import Loginpage from './components/loginpage'
+import Loginpage from './components/LoginPage'
 import {Route, } from 'react-router-dom'
 import PrivateRoute from './components/PrivateRoute'
 

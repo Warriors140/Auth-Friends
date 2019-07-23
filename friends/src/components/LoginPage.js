@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux'
-import {loginSuccess} from '../actions/actions'
+import {loginSuccess} from '../actions'
 
  class loginpage extends Component {
      state = {
